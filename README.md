@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Rocela and I'm a backend engineer at [@ring](https://www.linkedin.com/company/ring-labs/mycompany/). Feel free to ask me questions about Ruby, Rails, PostgreSQL, Docker and Vim.
+
+You can find me on [Twitter](https://twitter.com/roxdurazo) and [LinkedIn](https://www.linkedin.com/in/roceladurazo).
