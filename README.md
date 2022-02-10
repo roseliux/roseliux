@@ -26,4 +26,4 @@ I contributing to few open–source projects, I hope to add more this year:
 
 In my free time I enjoy watching NBA games, exercise (outdoor or crossfit), petting my 2 cats, and taking care of my plants. 
 
-You can find me on [Twitter](https://twitter.com/roxdurazo) and [LinkedIn](https://www.linkedin.com/in/roceladurazo).
+You can find me on [Twitter](https://twitter.com/roseliux) and [LinkedIn](https://www.linkedin.com/in/roceladurazo).
