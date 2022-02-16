@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Rocela and I'm a backend engineer at [@ring](https://www.linkedin.com/company/ring-labs/mycompany/). Feel free to ask me questions about Ruby, Rails, PostgreSQL, Docker and Vim.
 
-I contributing to few open–source projects, I hope to add more this year:
+Few open–source contributions from me, I hope to add more this year:
 - [locaweb/heartcheck-newrelic](https://github.com/locaweb/heartcheck-newrelic/pulls?q=is%3Apr+author%3Aroseliux+) with GitHub Actions and install rubocop
 - [rubyforgood/casa](https://github.com/rubyforgood/casa/pull/2825) Fix automation test (rspec)
 - [workarea](https://github.com/workarea-commerce/workarea/pull/598) Fix issue when calling a `docker --version` command
